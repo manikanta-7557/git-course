@@ -1,1 +1,2 @@
-Here, we are implementing the user authentication page where user sign-in and sign-out
+Here, we are implementing the user authentication page where user sign-in and sign-out.
+While merging stay in the main branch and then continue merge
